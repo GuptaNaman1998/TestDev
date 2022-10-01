@@ -7,10 +7,10 @@ I'm a passionate, self-taught Data Engineer and Python Developer who loves explo
 <hr>
 
 [![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuptaNaman1998&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/naman-gupta-275b41170/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakg01&layout=compact&theme=radical)](https://www.linkedin.com/in/naman-gupta-275b41170/)
-[![Naman's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=palakg01&theme=redical)](https://github.com/palakg01/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNaman1998&layout=compact&theme=radical)](https://www.linkedin.com/in/naman-gupta-275b41170/)
+[![Naman's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GuptaNaman1998&theme=redical)](https://github.com/GuptaNaman1998/github-readme-activity-graph)
 
-![](https://komarev.com/ghpvc/?username=palakg01&style=plastic&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=GuptaNaman1998&style=plastic&color=brightgreen)
 
 
 Want to collaborate? Feel free to connect😄
